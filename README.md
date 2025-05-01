@@ -1,4 +1,4 @@
-"# ETS_Machine-Vision_Counting-Object" 
+"ETS_Machine-Vision_Counting-Object" 
 
 Kelompok 1 :
 - Fatma Afrilia Kartika Sari 0922040032
